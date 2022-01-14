@@ -1,6 +1,6 @@
 ## Hi there I'm Jerika 👋
 
-I'm from the Philippines but since 2019 I've moved to Germany where I now live.
+I'm from the Philippines but in 2019 I've moved to Germany where I now live.
 
 🌱 I’m currently learning **Web Development** especially HTML, CSS and JavaScript.
 
@@ -10,10 +10,10 @@ I'm from the Philippines but since 2019 I've moved to Germany where I now live.
 
 So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Academind and have built a number of nice projects, a selection of which you can see below:
 
-![Web Food Page](web_food.png)
-![Travel Page - Home Page](travel_startpage.png)
-![Travel Page - Destinations Page](travel_destinations.png)
-![Tic Tac Toe](tictactoe.png)
+<img src="web_food.png" width="500" height="500" alt="Web Food Page" />
+<img src="travel_startpage.png" width="500" height="500" alt="Travel Page - Home Page" />
+<img src="travel_destinations.png" width="500" height="500" alt="Travel Page - Destinations Page" />
+<img src="tictactoe.png" width="500" height="500" alt="Tic Tac Toe" />
 
 I'm currently looking 👀 for an entry level position or an internship in Web Development, remote or on-site.
 
