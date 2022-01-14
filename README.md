@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi there I'm Jerika 👋
+
+I'm from the Philippines but since 2019 I've moved to Germany where I now live.
+
+🌱 I’m currently learning **Web Development** especially HTML, CSS and JavaScript.
+
+<!-- Things that interest me are -->
+
+<!-- I enjoy ... -->
+
+So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Academind and have built a number of nice projects, a selection of which you can see below:
+
+![Web Food Page](web_food.png)
+![Travel Page - Home Page](travel_startpage.png)
+![Travel Page - Destinations Page](travel_destinations.png)
+![Tic Tac Toe](tictactoe.png)
+
+I'm currently looking 👀 for an entry level position or an internship in Web Development, remote or on-site.
 
 <!--
 **jecaps/jecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
