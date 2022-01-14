@@ -10,10 +10,10 @@ I'm from the Philippines but in 2019 I've moved to Germany where I now live.
 
 So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Academind and have built a number of nice projects, a selection of which you can see below:
 
-<img src="web_food.png" width="50%" height="500" alt="Web Food Page" />
-<img src="travel_startpage.png" width="50%" height="500" alt="Travel Page - Home Page" />
-<img src="travel_destinations.png" width="500" height="500" alt="Travel Page - Destinations Page" />
-<img src="tictactoe.png" width="500" height="500" alt="Tic Tac Toe" />
+<img src="web_food.png" width="300" height="300" alt="Web Food Page" />
+<img src="travel_startpage.png" width="300" height="300" alt="Travel Page - Home Page" />
+<img src="travel_destinations.png" width="300" height="300" alt="Travel Page - Destinations Page" />
+<img src="tictactoe.png" width="300" height="300" alt="Tic Tac Toe" />
 
 I'm currently looking 👀 for an entry level position or an internship in Web Development, remote or on-site.
 
