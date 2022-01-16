@@ -23,11 +23,11 @@ Add me on LinkedIn
 
 Next up 👇:
 
-- [] Tailwind CSS
-- [] More Javascript
-- [] Node.js
-- [] React
-- [] ...
+- [ ] Tailwind CSS
+- [ ] More Javascript
+- [ ] Node.js
+- [ ] React
+- [ ] ...
 
 Completed ✔️:
 
