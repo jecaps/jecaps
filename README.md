@@ -19,6 +19,29 @@ So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Acad
 
 **I'm currently looking 👀 for an entry level position or an internship in Web Development, remote or on-site.**
 
+Add me on LinkedIn
+
+Next up 👇:
+
+- [] Tailwind CSS
+- [] More Javascript
+- [] Node.js
+- [] React
+- [] ...
+
+Completed ✔️:
+
+- [x] HTML 5
+- [x] CSS 3
+- [x] Bootstrap
+- [x] Sass/ Scss ✨
+- [x] Basic JavaScript
+- [x] ES6
+- [x] Regular Expressions
+- [x] Debugging
+- [x] Object Oriented Programming
+- [x] Algorithm Scripting
+
 <!--
 **jecaps/jecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
