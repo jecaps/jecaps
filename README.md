@@ -19,15 +19,14 @@ So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Acad
 
 **I'm currently looking 👀 for an entry level position or an internship in Web Development, remote or on-site.**
 
-Add me on LinkedIn
+Add me on LinkedIn <https://www.linkedin.com/in/jekanz/>
 
 Next up 👇:
 
 - [ ] Tailwind CSS
 - [ ] More Javascript
 - [ ] Node.js
-- [ ] React
-- [ ] ...
+- [ ] React, Vue or Svelte
 
 Completed ✔️:
 
