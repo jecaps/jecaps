@@ -40,6 +40,7 @@ Completed ✔️:
 - [x] Debugging
 - [x] Object Oriented Programming
 - [x] Algorithm Scripting
+- [x] ChartJS
 
 <!--
 **jecaps/jecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
