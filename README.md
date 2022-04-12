@@ -23,7 +23,6 @@ Add me on LinkedIn <https://www.linkedin.com/in/jekanz/>
 
 Next up 👇:
 
-- [ ] Tailwind CSS
 - [ ] More Javascript
 - [ ] Node.js
 - [ ] React, Vue or Svelte
@@ -41,6 +40,7 @@ Completed ✔️:
 - [x] Object Oriented Programming
 - [x] Algorithm Scripting
 - [x] ChartJS
+- [x] Tailwind CSS
 
 <!--
 **jecaps/jecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
