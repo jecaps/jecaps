@@ -25,7 +25,7 @@ Next up 👇:
 
 - [ ] More Javascript
 - [ ] Node.js
-- [ ] React, Vue or Svelte
+
 
 Completed ✔️:
 
@@ -41,6 +41,7 @@ Completed ✔️:
 - [x] Algorithm Scripting
 - [x] ChartJS
 - [x] Tailwind CSS
+- [x] React useState and useEffect
 
 <!--
 **jecaps/jecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
