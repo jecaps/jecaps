@@ -29,10 +29,14 @@ Next up 👇:
 
 Completed ✔️:
 
-- [x] HTML 5
+## CSS
 - [x] CSS 3
 - [x] Bootstrap
-- [x] Sass/ Scss ✨
+- [x] Sass/ Scss 
+- [x] Tailwind CSS ✨
+- [x] Daisy UI ✨
+
+## JavaScript
 - [x] Basic JavaScript
 - [x] ES6
 - [x] Regular Expressions
@@ -40,8 +44,6 @@ Completed ✔️:
 - [x] Object Oriented Programming
 - [x] Algorithm Scripting
 - [x] ChartJS
-- [x] Tailwind CSS
-- [x] React useState and useEffect
-- [x] Daisy UI
+- [x] React useState and useEffect ✨
 - [x] Ionic Framework
 - [x] Basic Typescript
