@@ -2,7 +2,7 @@
 
 I'm from the Philippines but in 2019 I've moved to Germany where I now live.
 
-🌱 I’m currently learning **Web Development** focusing on **REa.
+🌱 I’m currently learning **Web Development** focusing on **React**.
 
 <!-- Things that interest me are -->
 
