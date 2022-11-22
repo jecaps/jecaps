@@ -10,13 +10,15 @@ I'm from the Philippines but in 2019 I've moved to Germany where I now live.
 
 So far, I've completed HTML, CSS and JavaScript courses in freeCodeCamp and Academind and have built a number of nice projects, a selection of which you can see below:
 
-<div align="center">
-  <img src="web_food.png" width="310" height="310" alt="Web Food Page" style="display: inline" />
-  <img src="travel_startpage.png" width="310" height="310" alt="Travel Page - Home Page" style="display: inline" />
-  <img src="travel_destinations.png" width="310" height="310" alt="Travel Page - Destinations Page" style="display: inline" />
-  <img src="tictactoe.png" width="310" height="310" alt="Tic Tac Toe" style="display: inline" />
-    <img src="https://github.com/jecaps/calculator/raw/master/src/images/calculator.png" width="310" height="310" alt="Tic Tac Toe" style="display: inline" />
-    <img src="https://github.com/jecaps/my-recipes/raw/master/src/images/recipe-app.gif" width="310" height="310" alt="Tic Tac Toe" style="display: inline" />
+<div align="center" style:'display:flex; flex-direction: column; ' >
+  <img src="web_food.png" alt="Web Food Page" width: 390px;/>
+  <img src="travel_startpage.png" alt="Travel Page - Home Page" width: 390px;/>
+  <img src="travel_destinations.png" alt="Travel Page - Destinations Page" width: 390px;/>
+  <img src="https://user-images.githubusercontent.com/76426580/203258765-20440b24-eafa-4512-9c8d-7aac191c5f91.png" />
+  <img src="tictactoe.png" alt="Tic Tac Toe" width: 390px;/>
+  <img src="https://github.com/jecaps/calculator/raw/master/src/images/calculator.png" alt="Tic Tac Toe" width: 390px;/>
+    
+
 </div>
 
 **I'm currently looking 👀 for an entry level position in Software/Web Development, remote or hybrid.**
@@ -25,12 +27,9 @@ Add me on LinkedIn <https://www.linkedin.com/in/jekanz/>
 
 Next up 👇:
 
-- [ ] More Javascript and React
-- [ ] NodeJS
-- [ ] NextJS
-- [ ] MongoDB
-- [ ] Figma
-
+- [ ] Angular 
+- [ ] NestJS
+- [ ] Java
 
 Completed ✔️:
 
@@ -40,6 +39,7 @@ Completed ✔️:
 - [x] Sass/ Scss 
 - [x] Tailwind CSS ✨
 - [x] Daisy UI ✨
+- [x] Styled-Components
 
 ## JavaScript
 - [x] Basic JavaScript
@@ -52,3 +52,14 @@ Completed ✔️:
 - [x] React useState and useEffect ✨
 - [x] Ionic Framework
 - [x] Basic Typescript
+- [x] NextJS
+
+## Backend
+- [x] Basic Python
+- [x] MongoDB
+- [x] NodeJS
+
+## Other Tools
+- [x] Basic Figma
+
+
