@@ -49,7 +49,7 @@ Completed ✔️:
 - [x] Object Oriented Programming
 - [x] Algorithm Scripting
 - [x] ChartJS
-- [x] React useState and useEffect ✨
+- [x] React
 - [x] Ionic Framework
 - [x] Basic Typescript
 - [x] NextJS
