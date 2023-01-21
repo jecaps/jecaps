@@ -8,7 +8,7 @@
     <li>Connect with me on <a href='https://www.linkedin.com/in/jekanz'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg">Linkedin</a></li>
   </ul>
   
-  <h2>Languages and Tools learned</h2>
+  <h2>💻 Languages and Tools learned</h2>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,6 +38,7 @@
   
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
   
+  <h2>📊 GitHub Stats</h2>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jecaps&show_icons=true&locale=en&layout=compact" alt="jecaps" />   </p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jecaps&" alt="jecaps" /></p>
