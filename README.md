@@ -5,8 +5,14 @@
     <li>a <strong>Web Developer</strong> 👩‍💻 based in Germany</li>
     <li>started an internship focusing on <strong>Angular</strong>, <strong>React</strong>, <strong>TypeScript</strong>, <strong>NestJS</strong>, and <strong>Java</strong> 🔧</li>
     <li>interested in learning 📚 <strong>Vue</strong> and <strong>Django</strong></li>
-    <li>Connect with me on <a href='https://www.linkedin.com/in/jekanz'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg">Linkedin</a></li>
+    <li>connect with me on <a href='https://www.linkedin.com/in/jekanz'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg">Linkedin</a></li>
   </ul>
+  
+  <h2>Projects 🔨</h2>
+  <p><a href="https://github.com/jecaps/Kanzepts"><strong>Kanzepts</strong> - A Meal Planning App</a></p>
+  <p><a href="https://github.com/jecaps/caesars-cipher"><strong>Caesar's Cipher</strong> - Basic Message Encryption and Decryption App</a></p>
+  <p><a href="https://github.com/jecaps/coding-cube"><strong>Coding Cube</strong> - Advanced Message Encryption and Decryption App</a></p>
+  <p><a href="https://github.com/jecaps/calculator"><strong>Calculator</strong></a></p>
   
   <h2>💻 Languages and Tools learned</h2>
   
@@ -46,4 +52,16 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jecaps&show_icons=true&locale=en&layout=compact" alt="jecaps" />   </p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jecaps&" alt="jecaps" /></p>
+  
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jecaps&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jecaps&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jecaps&show_icons=true" />
+</picture>
 </div>
