@@ -4,7 +4,7 @@
   <ul align="left">
     <li>a <strong>Software Developer</strong> 👩‍💻 based in Germany</li>
     <li>working with <strong>Angular</strong> and <strong>React</strong> 🔧</li>
-    <li>interested in learning 📚 <strong>Django</strong></li>
+<!--     <li>interested in learning 📚 <strong>Django</strong></li> -->
     <li>connect with me on <a href='https://www.linkedin.com/in/jekanz'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg">Linkedin</a></li>
   </ul>
   
